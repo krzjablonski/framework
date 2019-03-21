@@ -2,7 +2,7 @@
 
 namespace Themosis\Page\Sections;
 
-use Themosis\Foundation\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 class SectionServiceProvider extends ServiceProvider
 {
